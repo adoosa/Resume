@@ -1,4 +1,36 @@
-My Resume:
+My Background:
+
+EDUCATION:
+
+Master of Science in Electrical and Computer Engineering Aug’15
+
+Portland State University – GPA 3.83/4.0 (IEEE Honors Inductee)
+
+Bachelor of Science in Electrical Engineering Jun’14
+
+Portland State University – GPA 3.5/4.0 (Eta Kappa Nu Society) 
+
+SKILLS:
+
+Languages: Assembly language, C, SQL, Python, Bash Scripts, PHP, Shell.
+
+Tools: Cadence, Eagle CAD, Math Works, Visual Studio, Simics, Eclipse, Model Sim/Questa Sim, 
+
+LTSpice, Android SDK, Schematic Capture, Git, Apache server, Wiki, VMware
+
+Hardware: Verilog HDL, VHDL, Raspberry Pi 2, Instruction Set Architecture IA3, Arduino IDE, FPGA 
+
+Prototyping, SRAMs, SDRAMs.
+
+ACADEMIC COURSES:
+
+Microprocessor System Design, Formal Verification High Performance of Digital Systems
+
+Digital IC Design I&II ASIC Design Modeling & Synthesis
+
+Digital Design of HDL IC Technologies
+
+Post-Silicon Validation
 
 SKILLS:
 
